@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlops-mini-project/mlruns/946108024822580579/54173e3d65f34a52965ee9b85b5ce2ba/artifacts
+end_time: 1724068183833
+entry_point_name: ''
+experiment_id: '946108024822580579'
+lifecycle_stage: active
+run_id: 54173e3d65f34a52965ee9b85b5ce2ba
+run_name: GradientBoosting with TF-IDF
+run_uuid: 54173e3d65f34a52965ee9b85b5ce2ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724068159771
+status: 3
+tags: []
+user_id: User

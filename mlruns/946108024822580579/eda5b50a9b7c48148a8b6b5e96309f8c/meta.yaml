@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlops-mini-project/mlruns/946108024822580579/eda5b50a9b7c48148a8b6b5e96309f8c/artifacts
+end_time: 1724068183837
+entry_point_name: ''
+experiment_id: '946108024822580579'
+lifecycle_stage: active
+run_id: eda5b50a9b7c48148a8b6b5e96309f8c
+run_name: All Experiments
+run_uuid: eda5b50a9b7c48148a8b6b5e96309f8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724068023665
+status: 3
+tags: []
+user_id: User

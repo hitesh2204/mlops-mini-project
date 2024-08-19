@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlops-mini-project/mlruns/946108024822580579/609e12242436458e8d62e33ab1b61a72/artifacts
+end_time: 1724068115765
+entry_point_name: ''
+experiment_id: '946108024822580579'
+lifecycle_stage: active
+run_id: 609e12242436458e8d62e33ab1b61a72
+run_name: RandomForest with TF-IDF
+run_uuid: 609e12242436458e8d62e33ab1b61a72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724068083861
+status: 3
+tags: []
+user_id: User

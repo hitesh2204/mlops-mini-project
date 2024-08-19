@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/147adb36d9b24a8595bd5ae8297e8449/artifacts
+end_time: 1724067476009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 147adb36d9b24a8595bd5ae8297e8449
+run_name: incongruous-flea-888
+run_uuid: 147adb36d9b24a8595bd5ae8297e8449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724067475906
+status: 3
+tags: []
+user_id: User

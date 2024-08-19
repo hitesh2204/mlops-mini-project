@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fb645c70c01b4346b41bbc29b9d81590/artifacts
+deleted_time: 1724067345670
+end_time: 1724067285961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fb645c70c01b4346b41bbc29b9d81590
+run_name: adorable-shark-561
+run_uuid: fb645c70c01b4346b41bbc29b9d81590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724067281633
+status: 4
+tags: []
+user_id: User
