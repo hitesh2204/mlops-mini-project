@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlops-mini-project/mlruns/178725085218426391/12eedb024d5f4b419731c6e5b8295118/artifacts
+end_time: 1724069317479
+entry_point_name: ''
+experiment_id: '178725085218426391'
+lifecycle_stage: active
+run_id: 12eedb024d5f4b419731c6e5b8295118
+run_name: bald-koi-472
+run_uuid: 12eedb024d5f4b419731c6e5b8295118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724069309937
+status: 3
+tags: []
+user_id: User

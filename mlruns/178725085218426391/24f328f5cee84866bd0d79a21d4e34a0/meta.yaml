@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlops-mini-project/mlruns/178725085218426391/24f328f5cee84866bd0d79a21d4e34a0/artifacts
+end_time: 1724069313778
+entry_point_name: ''
+experiment_id: '178725085218426391'
+lifecycle_stage: active
+run_id: 24f328f5cee84866bd0d79a21d4e34a0
+run_name: 'LR with params: {''C'': 10, ''penalty'': ''l1'', ''solver'': ''liblinear''}'
+run_uuid: 24f328f5cee84866bd0d79a21d4e34a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724069313672
+status: 3
+tags: []
+user_id: User
