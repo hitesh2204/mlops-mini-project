@@ -1,8 +1,8 @@
 aliases: []
 creation_timestamp: 1724071254385
-current_stage: Staging
+current_stage: Production
 description: null
-last_updated_timestamp: 1724071254408
+last_updated_timestamp: 1724135546916
 name: my_model
 run_id: 7782a089c122468cb9fcbafa0ce5d6e6
 run_link: null
