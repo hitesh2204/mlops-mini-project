@@ -102,13 +102,13 @@ def main():
     mlflow.set_experiment("mlops-ci-pipeline")
     with mlflow.start_run() as run:  # Start an MLflow run
         try:
-            clf = load_model('./models/model.pkl')
+            lr = load_model('./models/model.pkl')
             test_data = load_data('./data/features/test_bow.csv')
             
             X_test = test_data.iloc[:, :-1].values
             y_test = test_data.iloc[:, -1].values
 
-            metrics = evaluate_model(clf, X_test, y_test)
+            metrics = evaluate_model(lr, X_test, y_test)
             
             save_metrics(metrics, 'reports/metrics.json')
             
@@ -117,13 +117,13 @@ def main():
                 mlflow.log_metric(metric_name, metric_value)
             
             # Log model parameters to MLflow
-            if hasattr(clf, 'get_params'):
-                params = clf.get_params()
+            if hasattr(lr, 'get_params'):
+                params = lr.get_params()
                 for param_name, param_value in params.items():
                     mlflow.log_param(param_name, param_value)
             
             # Log model to MLflow
-            mlflow.sklearn.log_model(clf, "model")
+            mlflow.sklearn.log_model(lr, "model")
             
             # Save model info
             save_model_info(run.info.run_id, "model", 'reports/experiment_info.json')
