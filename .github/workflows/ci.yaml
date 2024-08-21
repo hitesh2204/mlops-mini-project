@@ -3,8 +3,8 @@ name: MLOPS-CI
 on: push
 
 jobs:
-  ci-pipeline
-  runs-on: ubuntu-latest
+  ci-pipeline:
+    runs-on: ubuntu-latest
 
   name: code checkout
   uses: actions/checkout@v3
