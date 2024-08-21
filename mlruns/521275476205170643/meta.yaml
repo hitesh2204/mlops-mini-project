@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MLOps/mlops-mini-project/mlruns/521275476205170643
+creation_time: 1724221943660
+experiment_id: '521275476205170643'
+last_update_time: 1724221943660
+lifecycle_stage: active
+name: mlops-ci-pipeline

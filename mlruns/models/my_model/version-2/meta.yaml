@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1724221958919
+current_stage: Staging
+description: null
+last_updated_timestamp: 1724221958946
+name: my_model
+run_id: 3fa6ebf873c94055a558a9453e968ccf
+run_link: null
+source: file:///D:/MLOps/mlops-mini-project/mlruns/521275476205170643/3fa6ebf873c94055a558a9453e968ccf/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/MLOps/mlops-mini-project/mlruns/521275476205170643/3fa6ebf873c94055a558a9453e968ccf/artifacts/model
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlops-mini-project/mlruns/521275476205170643/3fa6ebf873c94055a558a9453e968ccf/artifacts
+end_time: 1724221954381
+entry_point_name: ''
+experiment_id: '521275476205170643'
+lifecycle_stage: active
+run_id: 3fa6ebf873c94055a558a9453e968ccf
+run_name: bold-shoat-109
+run_uuid: 3fa6ebf873c94055a558a9453e968ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724221944079
+status: 3
+tags: []
+user_id: User
