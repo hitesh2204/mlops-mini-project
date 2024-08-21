@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOps/mlops-mini-project/mlruns/521275476205170643/b04443e78d7e48b5a7d0c49e9bd2c42f/artifacts
+end_time: 1724222749143
+entry_point_name: ''
+experiment_id: '521275476205170643'
+lifecycle_stage: active
+run_id: b04443e78d7e48b5a7d0c49e9bd2c42f
+run_name: invincible-smelt-404
+run_uuid: b04443e78d7e48b5a7d0c49e9bd2c42f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724222739807
+status: 3
+tags: []
+user_id: User
